@@ -3,10 +3,10 @@
       "title": "What is the name of this artwork?"
       "user_answer": null,
       "answers": [
-                    { "text": "Mount Everest" },
-                    { "text": "K2" },
-                    { "text": "Kangchenjunga" },
-                    { "text": "Lhotse" }
+                    { "title": "Mount Everest" },
+                    { "title": "K2" },
+                    { "title": "Kangchenjunga" },
+                    { "title": "Lhotse" }
                 ]
     },
       {
