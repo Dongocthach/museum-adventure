@@ -1,24 +1,20 @@
 [
-                {
-                    "title": "What is the name of this artwork?"                       
-                  },
-                  {
-                    "title": "Who is the artist of this artwork?"
-                  },
-                  {
-                    "title": "What medium did the artist use for?"
-                  },
-                  {
-                    "title": "In what year it was created?"
-                  },
-                  {
-                    "title": "Where is it currently located?"
-                  },
-                  {
-                    "title": "In which department of the museum can it be found?"
-                  },
-                  {
-                    "title": "How was it acquired by the museum?"
-                  }
-                  
-            ]
+    {
+      "title": "What is the name of this artwork?"
+    },
+      {
+      "title": "What medium did the artist use for?"
+    },
+      {
+      "title": "In what year it was created?"
+    },
+      {
+      "title": "Where is it currently located?"
+    },
+      {
+      "title": "In which department of the museum can it be found?"
+    },
+      {
+      "title": "How was it acquired by the museum?"
+    }
+]
