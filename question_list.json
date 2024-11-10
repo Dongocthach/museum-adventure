@@ -1,7 +1,14 @@
 [
     {
       "title": "What is the name of this artwork?"
-    },
+      "user_answer": "Mount Everest",
+      "answers": [
+                    { "text": "Mount Everest" },
+                    { "text": "K2" },
+                    { "text": "Kangchenjunga" },
+                    { "text": "Lhotse" }
+                ]
+    }
       {
       "title": "What medium did the artist use for?"
     },
