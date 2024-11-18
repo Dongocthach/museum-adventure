@@ -1,6 +1,6 @@
 [
   {
-    "carID": 101,
+    "objectId": 101,
     "model": "NAVARA PRO-4X",
     "price": "960,000,000 VNĐ",
     "priceDetails": "Đã bao gồm 10% VAT",
@@ -14,7 +14,7 @@
     "primaryImageSmall": "https://www.nissanvietnam.vn/images/specs_prices/2024/resized/navara-pro4x_ghi_1721200484.jpg"
   },
   {
-    "carID": 102,
+    "objectId": 102,
     "model": "NAVARA PRO-4X",
     "price": "960,000,000 VNĐ",
     "priceDetails": "Đã bao gồm 10% VAT",
@@ -28,7 +28,7 @@
     "primaryImageSmall": "https://www.nissanvietnam.vn/images/specs_prices/2024/resized/navara-pro4x_ghi_1721200484.jpg"
   },
   {
-    "carID": 103,
+    "objectId": 103,
     "model": "NAVARA PRO-4X",
     "price": "960,000,000 VNĐ",
     "priceDetails": "Đã bao gồm 10% VAT",
