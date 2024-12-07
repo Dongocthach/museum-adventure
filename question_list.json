@@ -1,23 +1,24 @@
 [
-    
-    {
-      "title": "What is the name of this artwork?"
-      "answers": [
-                    { "title": "Mount Everest" },
-                    { "title": "K2" },
-                    { "title": "Kangchenjunga" },
-                    { "title": "Lhotse" }
-                ]
-    }
-    {
-      "title": "What does this painting depict?"
-      "answers": [
-                    { "title": "Mount" },
-                    { "title": "Some Lake" },
-                    { "title": "Some mount" },
-                    { "title": "mount and lake" }
-                ]
-    }
-      "title": "What do you feeling about this painting"
-      "answers": ""
+  {
+    "objectID": 1,
+    "Questionstitle": "What is the name of this artwork?",
+    "Correctanswers": "Paris",
+    "Listanswers": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+    "userThough": ""
+
+  },
+  {
+    "objectID": 2,
+    "Questionstitle": "What does this painting depict?",
+    "Correctanswers": "Mars",
+    "Listanswers": ["Mount", "Some Lake", "Some mount", "mount and lake"],
+    "userThough": ""
+  },
+  {
+    "objectID": 3,
+    "Questionstitle": "What is the largest ocean on Earth?",
+    "Correctanswers": "Pacific Ocean",
+    "Listanswers": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "userThough": ""
+  }
 ]
