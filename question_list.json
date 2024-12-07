@@ -13,12 +13,5 @@
     "Correctanswers": "Mars",
     "Listanswers": ["Mount", "Some Lake", "Some mount", "mount and lake"],
     "userThough": ""
-  },
-  {
-    "objectID": 3,
-    "Questionstitle": "What is the largest ocean on Earth?",
-    "Correctanswers": "Pacific Ocean",
-    "Listanswers": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
-    "userThough": ""
   }
 ]
