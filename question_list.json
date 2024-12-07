@@ -13,5 +13,12 @@
     "Correctanswers": "Mars",
     "Listanswers": ["Mount", "Some Lake", "Some mount", "mount and lake"],
     "userThough": ""
+  },
+    {
+    "objectID": 3,
+    "Questionstitle": "What does this painting depict?",
+    "Correctanswers": "Mars",
+    "Listanswers": ["Mount", "Some Lake", "Some mount", "mount and lake"],
+    "userThough": ""
   }
 ]
