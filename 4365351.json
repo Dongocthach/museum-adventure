@@ -1,1 +1,24 @@
+[
+  {
+    "objectID": 1,
+    "Questionstitle": "What is the name of this artwork?",
+    "Correctanswers": "Paris",
+    "Listanswers": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+    "userThough": ""
 
+  },
+  {
+    "objectID": 2,
+    "Questionstitle": "What does this painting depict?",
+    "Correctanswers": "Mars",
+    "Listanswers": ["Mount", "Some Lake", "Some mount", "mount and lake"],
+    "userThough": ""
+  },
+    {
+    "objectID": 3,
+    "Questionstitle": "What does this painting depict?",
+    "Correctanswers": "Mars",
+    "Listanswers": ["Mount", "Some Lake", "Some mount", "mount and lake"],
+    "userThough": ""
+  }
+]
