@@ -1,7 +1,7 @@
 [
+    
     {
       "title": "What is the name of this artwork?"
-      "user_answer": null,
       "answers": [
                     { "title": "Mount Everest" },
                     { "title": "K2" },
@@ -9,4 +9,15 @@
                     { "title": "Lhotse" }
                 ]
     }
+    {
+      "title": "What does this painting depict?"
+      "answers": [
+                    { "title": "Mount" },
+                    { "title": "Some Lake" },
+                    { "title": "Some mount" },
+                    { "title": "mount and lake" }
+                ]
+    }
+      "title": "What does this painting depict?"
+      "answers": "greate"
 ]
