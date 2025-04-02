@@ -40,6 +40,19 @@
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "European Sculpture and Decorative Arts",
     "creditLine": "Gift of Samuel H. Kress Foundation, 1958"
+  },
+  {
+    "objectID": 444001,
+    "title": "Approve",
+    "artistDisplayName": "",
+    "medium": "",
+    "dimensions": "",
+    "objectURL": "",
+    "objectDate": "",
+    "primaryImage": "https://raw.githubusercontent.com/Dongocthach/museum-adventure/refs/heads/main/approval_nissan.jpg",
+    "primaryImageSmall": "https://raw.githubusercontent.com/Dongocthach/museum-adventure/refs/heads/main/approval_nissan.jpg",
+    "repository": "",
+    "department": "",
+    "creditLine": ""
   }
-
 ]
